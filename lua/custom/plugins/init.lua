@@ -7,6 +7,7 @@
 local config = {
   {
     vim.cmd 'set conceallevel=1',
+    vim.cmd 'set signcolumn=no',
   },
 }
 
